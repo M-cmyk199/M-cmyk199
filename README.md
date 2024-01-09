@@ -1,5 +1,17 @@
+
 M-cmyk199("pkg install espeak")
 #-----------------[ rabhwf ff-------------------#
+UPDATE DONE V 3.8 🥷🏻🇦🇱
+FREE COMMAND ENJOY
+
+rm -rf R05
+
+git clone https://github.com/Amin/R05
+
+cd R05
+
+python R05.py
+
  
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base32
